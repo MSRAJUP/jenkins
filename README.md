@@ -1,1 +1,2 @@
-# jenkins
+#!bin/bash
+echo $HOSTNAME
